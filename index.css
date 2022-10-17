@@ -5,5 +5,8 @@ h2 {
   font-family: sans-serif;
 }
 /* gave */
-
+p {
+  color: red;
+  font-size: 30px;
+}
 /* cas */
